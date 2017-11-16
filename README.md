@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://gitissue.com/public/GitIssue1.jpg" alt="GitIssue" width="600">
+  <img src="https://gitissue.com/public/GitIssue1.jpg" alt="GitIssue">
 </p>
 
 
