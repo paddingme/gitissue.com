@@ -1,10 +1,4 @@
 
 <p align="center">
-  <img src="https://gitissue.com/public/GitIssue1.jpg?i=gitissue" alt="GitIssue">
+  <img src="https://gitissue.com/public/GitIssue1.jpg?love=gitissue" alt="GitIssue: Github Issue 博客平台">
 </p>
-
-
-https://gitissue.com
-
-
-> Github Issue Reader make read gorgeous.
