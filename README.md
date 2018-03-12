@@ -1,4 +1,4 @@
-[![](https://img.shields.io/badge/%24-donate-green.svg)](https://github.com/git-issue/gitissue.com/issues/10)
+[![](https://img.shields.io/badge/%24-donate-green.svg)](https://gitissue.com/issues/5aa5176fd9e7a0126b9885e0)
 
 
 <p align="center">
