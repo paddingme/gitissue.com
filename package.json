@@ -1,0 +1,34 @@
+{
+  "name": "gitissue",
+  "version": "2.0.0",
+  "description": "Github Issue Blog Platform",
+  "main": "server.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/paddingme/gitissue.com.git"
+  },
+  "keywords": [
+    "GitIssue",
+    "Issue",
+    "GitHub",
+    "Issue",
+    "Blog"
+  ],
+  "author": "PaddingMe",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/paddingme/gitissue.com/issues"
+  },
+  "homepage": "https://github.com/paddingme/gitissue.com#readme",
+  "dependencies": {
+    "next": "^8.0.0",
+    "react": "^16.8.1",
+    "react-dom": "^16.8.1"
+  }
+}
